@@ -4,16 +4,18 @@ Love Splunk and xMatters but tired of just getting a message saying that somethi
 
 Configured loads of field extracts that look just fantastic in Splunk but frustrated you have to go into Splunk to see the current values for them **??**
 
-Want to use Splunk fields values from in onward tool chaining **???**
+Want to use Splunk fields values in onward tool chaining **???**
 
-Then you need custom message properties on your Splunk integration to xMatters to allow you to specify any message you like in the Splunk Alert config including field values and have them come right through to xMatters events, notifications and integrations.
+Then you need custom message properties on your Splunk integration with xMatters to allow you to specify any message you like in the Splunk Alert config including field values and have them come right through to xMatters events, notifications and integrations **!!!!**
 
 Turn your alert config from just 2 boring properties ...
 ![Original Alert Action Config](media/origonal_alert_action_config.png)
+
 ... into a mind blowing 4!
 ![New Alert Action Config](media/new_alert_action_config.png)
 
 Turn your boring old messages into something meaningful!!
+
 <img src="media/edit_messages_4.png" width="250" />
 
 # Pre-Requisites
@@ -21,7 +23,7 @@ Turn your boring old messages into something meaningful!!
 * xMatters account - If you don't have one, [get one](https://www.xmatters.com)!
 
 # Files
-* [xmatters_alert_action](xmatters_alert_action) - This is the entire Splunk integrtion for xMatters with modified files.  You don't really need all of it though, you'll be interested in:
+* [xmatters_alert_action](xmatters_alert_action) - This is the entire Splunk integration for xMatters with modified files.  You don't really need all of it though, you'll be interested in:
 * [.../bin/xmatters.py](xmatters_alert_action/bin/xmatters.py)
 * [.../README/alert_actions.conf.spec](xmatters_alert_action/README/alert_actions.conf.spec)
 * [.../default/alert_actions.conf](xmatters_alert_action/default/alert_actions.conf)
