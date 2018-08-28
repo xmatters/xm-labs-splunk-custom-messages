@@ -2,9 +2,9 @@
 
 Love Splunk and xMatters but tired of just getting a message saying that something is wrong missing the crucial piece of information that you need to make a decision **?**
 
-Configured loads of field extracts that look just fantastic in Splunk but frustrated you have to go into Splunk to see the current values for them**??**
+Configured loads of field extracts that look just fantastic in Splunk but frustrated you have to go into Splunk to see the current values for them **??**
 
-Want to use Splunk fields values from in onward tool chaining**???**
+Want to use Splunk fields values from in onward tool chaining **???**
 
 Then you need custom message properties on your Splunk integration to xMatters to allow you to specify any message you like in the Splunk Alert config including field values and have them come right through to xMatters events, notifications and integrations.
 
@@ -14,7 +14,7 @@ Turn your alert config from just 2 boring properties ...
 ![New Alert Action Config](media/new_alert_action_config.png)
 
 Turn your boring old messages into something meaningful!!
-![Example 3](media/edit_messages_4.png | width=100px)
+<img src="media/edit_messages_4.png" width="250" />
 
 # Pre-Requisites
 * Splunk Enterprise
@@ -106,7 +106,8 @@ Get your art on and put your new message content somewhere it will have the maxi
 
 ![Edit Messages Step 3](media/edit_messages_3.png)
 
-![Edit Messages Step 4](media/edit_messages_4.png | width=100px)
+<img src="media/edit_messages_4.png" width="250" />
+
 ![Edit Messages Step 5](media/edit_messages_5.png)
 
 ## 5. You're done! Now configure your Alerts!!
@@ -118,9 +119,9 @@ In the example from the end of the last section I used a search on a custom fiel
 
 ![Example 2](media/example_2.png)
 
-![Example 3](media/edit_messages_4.png | width=100px)
+<img src="media/edit_messages_4.png" width="250" />
 
 Tada!
 
 ***
-*Originally by Adam Watson - Owned by xMatters - See licence file*
+*Originally by Adam Watson (xMatters) - Owned by xMatters - See licence file*
