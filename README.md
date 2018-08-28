@@ -1,6 +1,6 @@
 # xMatters Splunk integration with Custom Message Properties
 
-Love Splunk and xMatters but tired of just getting a message saying that something is wrong missing the crucial piece of information that you need to make a decision**?**
+Love Splunk and xMatters but tired of just getting a message saying that something is wrong missing the crucial piece of information that you need to make a decision **?**
 
 Configured loads of field extracts that look just fantastic in Splunk but frustrated you have to go into Splunk to see the current values for them**??**
 
