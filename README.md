@@ -16,7 +16,7 @@ Turn your alert config from just 2 boring properties ...
 
 Turn your boring old messages into something meaningful!
 
-<img src="media/edit_messages_4.png" width="250" />
+<img src="media/edit_messages_4.png" width="350" />
 
 # Pre-Requisites
 * Splunk Enterprise
@@ -106,7 +106,7 @@ Get your art on and put your new message content somewhere it will have the maxi
 
 ![Edit Messages Step 3](media/edit_messages_3.png)
 
-<img src="media/edit_messages_4.png" width="250" />
+<img src="media/edit_messages_4.png" width="350" />
 
 ![Edit Messages Step 5](media/edit_messages_5.png)
 
@@ -119,7 +119,7 @@ In the example from the end of the last section I used a search on a custom fiel
 
 ![Example 2](media/example_2.png)
 
-<img src="media/edit_messages_4.png" width="250" />
+<img src="media/edit_messages_4.png" width="350" />
 
 Tada!
 
