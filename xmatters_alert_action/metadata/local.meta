@@ -1,0 +1,16 @@
+[app/install/install_source_checksum]
+version = 7.1.2
+modtime = 1535042803.069924000
+
+[alert_actions/xmatters]
+version = 7.1.2
+modtime = 1535043093.192303000
+
+[passwords/credential%3A%3Axmatters_password%3A]
+owner = admin
+version = 7.1.2
+modtime = 1535043093.196475000
+
+[app/install/is_configured]
+version = 7.1.2
+modtime = 1535043093.201161000
