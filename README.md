@@ -19,8 +19,8 @@ Turn your boring old messages into something meaningful!
 <img src="media/edit_messages_4.png" width="350" />
 
 # Pre-Requisites
-* Splunk Enterprise
 * xMatters account - If you don't have one, [get one](https://www.xmatters.com)!
+* Splunk Enterprise - I've concentrated on Splunk Enterprise.  If you know how to get this into Splunk Cloud all the better (and let me know) but I haven't tried it and I suspect that it wouldn't be allowed. 
 
 # Files
 * [xmatters_alert_action](xmatters_alert_action) - This is the entire Splunk integration for xMatters with modified files.  You don't really need all of this though, you'll be mostly interested in:
