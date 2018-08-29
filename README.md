@@ -20,7 +20,7 @@ Turn your boring old messages into something meaningful!
 
 # Pre-Requisites
 * xMatters account - If you don't have one, [get one](https://www.xmatters.com)!
-* Splunk Enterprise - I've concentrated on Splunk Enterprise.  If you know how to get this into Splunk Cloud all the better (and let me know) but I haven't tried it and I suspect that it wouldn't be allowed. 
+* Splunk Enterprise - I've concentrated on Splunk Enterprise.  If you know how to get this into Splunk Cloud all the better (and let me know) but I haven't tried it and I suspect that it wouldn't be allowed.
 
 # Files
 * [xmatters_alert_action](xmatters_alert_action) - This is the entire Splunk integration for xMatters with modified files.  You don't really need all of this though, you'll be mostly interested in:
@@ -34,9 +34,9 @@ Turn your boring old messages into something meaningful!
 # Installation Instructions
 
 ## 1. Setup the standard Splunk to xMatters Integration
-This is all about making the existing supported built in integration a little better. So you have to have the existing Splnk for xMatters integration setup first.  If you're currently using an older integration, a web hook or your own built integration follow this to install the latest integration in parallel and go from there.
+This is all about making the existing supported built in integration a little better. So you have to have the existing Splunk for xMatters integration setup first.  If you're currently using an older integration, a web hook or your own built integration follow this to install the latest integration in parallel and go from there.
 
-Head to the integration directory in xMatters instance and find the Splunk integration.  Follow the instructions to set it up in xMatters and in Splunk.  You'll be directed to the [online instructions page for the integration](https://help.xmatters.com/integrations/logmgmt/splunk.htm?cshid=SPLUNK) allong the way.
+Head to the integration directory in xMatters instance and find the Splunk integration.  Follow the instructions to set it up in xMatters and in Splunk.  You'll be directed to the [online instructions page for the integration](https://help.xmatters.com/integrations/logmgmt/splunk.htm?cshid=SPLUNK) along the way.
 
 ![Integration Directory](/media/integrationcataloge.png)
 
