@@ -68,13 +68,13 @@ Now check out creating an Alert in Splunk again and add the xMatters action.  Yo
 ## 3. Update the integration in xMatters
 Ok great, so now you're sending in a couple more properties to xMatters.  But xMatters doesn't know what to do with them yet so let's go tell it.
 
-You're going to need to convert the built in integration into a Communication Plan that you can edit. There's more about this under **Convert to communication plan** on the [Integration Directory help page](https://help.xmatters.com/ondemand/xmodwelcome/integrationdirectory/integration-directory.htm?cshid=IntegrationManagerPlace).  Converting an integration to a communication plan **cannot be undone.**  To convert simply find the integration on the configured integrations page and choose *Convert to Communication Plan*
+You're going to need to convert the built in integration into a Workflow that you can edit. There's more about this under **Convert to Workflow** on the [Integration Directory help page](https://help.xmatters.com/ondemand/xmodwelcome/integrationdirectory/integration-directory.htm?cshid=IntegrationManagerPlace).  Converting an integration to a Workflow **cannot be undone.**  To convert simply find the integration on the configured integrations page and choose *Convert to Workflow*
 
 ![Convert Integration Step 1](media/convert_intergration_1.png)
 
 ![Convert Integration Step 2](media/convert_intergration_2.png)
 
-Read and then accept the warning.  You'll be delivered into the newly created Communication Plan.
+Read and then accept the warning.  You'll be delivered into the newly created Workflow.
 
 Go into the layout editor on the Alert form.
 
@@ -92,7 +92,7 @@ Great, you now have 2 new properties for your custom messages to go into. Any ne
 
 If you're still editing the form layout simply click on to the messages sub tab.
 
-If you've navigated away to test you're new properties then you can find it again on the Developer tab in the *Communication Plans* section. Click Edit -> Forms, and then on the Alert form Edit -> Messages
+If you've navigated away to test you're new properties then you can find it again on the Workflow page in the *Workflow* section. Click Edit -> Forms, and then on the Alert form Edit -> Messages
 
 ![Get to com plan 1](media/get_to_com_plan1.png)
 
