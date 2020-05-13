@@ -18,6 +18,15 @@ Turn your boring old messages into something meaningful!
 
 <img src="media/edit_messages_4.png" width="350" />
 
+
+<kbd>
+<a href="https://support.xmatters.com/hc/en-us/community/topics">
+   <img src="https://github.com/xmatters/xMatters-Labs/raw/master/media/disclaimer.png">
+</a>
+</kbd>
+
+
+
 # Pre-Requisites
 * xMatters account - If you don't have one, [get one](https://www.xmatters.com)!
 * Splunk Enterprise - I've concentrated on Splunk Enterprise.  If you know how to get this into Splunk Cloud all the better (and let me know) but I haven't tried it and I suspect that it wouldn't be allowed.
